@@ -1,4 +1,5 @@
 # Atliq-Excel-Project
+AtliQ Hardware Sales Analysis Dashboard using Microsoft Excel
 # AtliQ Hardware – Excel Business Analysis
 
 ## Project Overview
